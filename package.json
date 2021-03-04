@@ -1,0 +1,24 @@
+{
+  "name": "cabanscom-eleventy",
+  "version": "0.1",
+  "description": "Building my new site on Eleventy.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabans/eleventy-cabanscom.git"
+  },
+  "keywords": [],
+  "author": "Abel Cabans",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/cabans/eleventy-cabanscom/issues"
+  },
+  "homepage": "https://github.com/cabans/eleventy-cabanscom#readme"
+}
